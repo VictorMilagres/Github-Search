@@ -12,6 +12,7 @@ Página que efetua a busca através da API externa do Github e mostra os reposit
 - React
 - Styled-Components
 - react-router-dom
+- Axios
 
 1. `npm install` para instalar todas as dependências;
 2. `npm run start` para rodar localmente o projeto
